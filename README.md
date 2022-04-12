@@ -40,7 +40,7 @@ Refer to Annex for code: <div class="toc-item"><li><span><a href="#Annex" data-t
  
 ![Data_WareHouse](./images/data_warehouse.png)	
 	
-## Why this changes?
+## Why these changes?
 
 In order to have standard information, centralized and escalable data, we need to merge and keep history with multiples variables that help to access easiy to whole core information that can  provide better insights to business. It means, that all customers, accounts and transactions must be centralized in a same dataset and looking forward 
 
