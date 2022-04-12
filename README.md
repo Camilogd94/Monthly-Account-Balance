@@ -44,7 +44,7 @@ Refer to Annex for code: <div class="toc-item"><li><span><a href="#Annex" data-t
 
 In order to have standard information, centralized and escalable data, we need to merge and keep history with multiples variables that help to access easiy to whole core information that can  provide better insights to business. It means, that all customers, accounts and transactions must be centralized in a same dataset and looking forward to be efficient for access, effective as unique source.
 
-![New_DWH](./images/New_DWH.png)  
+
 	
 The information provided by these tables are going to be oriented to satisfy business needs since 3 different sources provide global information but centralized in each matter. As well as unique source for several tables and possible inputs in different analysis
 	
