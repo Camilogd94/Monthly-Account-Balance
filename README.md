@@ -35,8 +35,14 @@ Refer to Annex for code: <div class="toc-item"><li><span><a href="#Annex" data-t
 # Data Warehouse Architecture
 
 ---
+	
+2. Improve the data warehouse architecture and justify your changes
  
 ![Data_WareHouse](./data_warehouse.png)	
+	
+## Why this changes?
+
+
 	
 2. Improve the data warehouse architecture and justify your changes
   
