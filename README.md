@@ -30,7 +30,7 @@ The exercise was executed in ***AWS (Amazon Web Services)***, especifically ***A
 
 Refer to Annex for code: <div class="toc-item"><li><span><a href="#Annex" data-toc-modified-id="Annex"><span class="toc-item">5&nbsp;&nbsp;</span>Annex</a></span>
   
-![monthly_account_balance](./monthly_account_balance.png)
+![monthly_account_balance](./images/monthly_account_balance.png)
   
 # Data Warehouse Architecture
 
@@ -38,7 +38,7 @@ Refer to Annex for code: <div class="toc-item"><li><span><a href="#Annex" data-t
 	
 2. Improve the data warehouse architecture and justify your changes
  
-![Data_WareHouse](./data_warehouse.png)	
+![Data_WareHouse](./images/data_warehouse.png)	
 	
 ## Why this changes?
 
