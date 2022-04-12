@@ -42,9 +42,8 @@ Refer to Annex for code: <div class="toc-item"><li><span><a href="#Annex" data-t
 	
 ## Why this changes?
 
+In order to have standard information, centralized and escalable data, we need to merge and keep history with multiples variables that help to access easiy to whole core information that can  provide better insights to business. It means, that all customers, accounts and transactions must be centralized in a same dataset but with partitions based on country and time
 
-	
-2. Improve the data warehouse architecture and justify your changes
   
   
 # Timeline execution plan
