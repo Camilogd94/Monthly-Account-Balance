@@ -49,7 +49,7 @@ In order to have standard information, centralized and escalable data, we need t
 The information provided by these tables are going to be oriented to satisfy business needs since 3 different sources provide global information but centralized in each matter. As well as unique source for several tables and possible inputs in different analysis
 	
 	
-![DB_DWH](./images/DB_DWH.png)  
+![DB](./images/DB.png)  
   
 # Timeline execution plan
 
