@@ -30,7 +30,7 @@ The exercise was executed in ***AWS (Amazon Web Services)***, especifically ***A
 
 Refer to Annex for code: <div class="toc-item"><li><span><a href="#Annex" data-toc-modified-id="Annex"><span class="toc-item">5&nbsp;&nbsp;</span>Annex</a></span>
   
-  
+![monthly_account_balance](./monthly_account_balance.png)
   
 # Data Warehouse Architecture
 
