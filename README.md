@@ -101,6 +101,10 @@ Monthly/Weekly - By the end of the period, how much money is transfered in by Pi
 Monthly - After transfers-out, how much money stands by PIX in over total transfers in	
 	
 <img src="https://latex.codecogs.com/svg.image?Pix-total-Saving&space;=&space;\frac{Pix&space;in&space;-&space;Pix&space;out}{Total&space;in}" title="https://latex.codecogs.com/svg.image?Pix-total-Saving = \frac{Pix in - Pix out}{Total in}" />	
+
+Weekly - How much money from Pix in are transfered out in the next 7 days compared to all transfers in
+	
+<img src="https://latex.codecogs.com/svg.image?Pix-Saving&space;=&space;\frac{Pix&space;in_t&space;-&space;Pix&space;out_{7d}}{TotalIn_{7d}}" title="https://latex.codecogs.com/svg.image?Pix-Saving = \frac{Pix in_t - Pix out_{7d}}{TotalIn_{7d}}" />	
 	
 # Annex
 
