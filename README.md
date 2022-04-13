@@ -86,23 +86,23 @@ Transactions is the only table that would have 2 parts.
 4. Propose metrics to track PIX performance and its impact on Nubank. Feel free to come up
 with any metrics you consider relevant	
 	
-Monthly - How much of the total transactions in are from PIX. General view for all products.
+Monthly - How much of the total transactions in are from PIX. General view for all products. This KPI helps to see the monthly coverage of PIX transactions over total transactions, this one could be segmented by product and country.
 	
 <img src="https://latex.codecogs.com/svg.image?Total&space;Pix&space;In&space;=&space;\frac{PixIn&space;Total}{Total&space;In}" title="https://latex.codecogs.com/svg.image?Total Pix In = \frac{PixIn Total}{Total In}" />
 	
-Monthly - How much money by the end of the month has been transfered out by Pix compared to transactions in by the same product
+Monthly - How much money by the end of the month has been transfered out by Pix compared to transactions in by the same product. Only considering PIX transactions, this KPIs provides information about "savings" in a monthly basis
 	
 <img src="https://latex.codecogs.com/svg.image?Pix&space;Savings&space;=&space;1&space;-&space;\frac{Pix&space;out}{Pix&space;in}" title="https://latex.codecogs.com/svg.image?Pix-Savings = 1 - \frac{Pix out}{Pix in}" />
 	
-Monthly/Weekly - By the end of the period, how much money is transfered in by Pix compared to total in-transfers
+Monthly/Weekly - By the end of the period, how much money is transfered in by Pix compared to total in-transfers. This KPI provides evolution and volume of transactions by PIX compared to total transactions. This KPI could be unfold by product.
 	
 <img src="https://latex.codecogs.com/svg.image?Pix-Margin&space;=&space;\frac{Pix&space;in}{Total&space;in}" title="https://latex.codecogs.com/svg.image?Pix-Margin = \frac{Pix in}{Total in}" />	
 
-Monthly - After transfers-out, how much money stands by PIX in over total transfers in	
+Monthly - After transfers-out, how much money stands by PIX in over total transfers in. Total Pix In  after out substracted compared to total In.	
 	
 <img src="https://latex.codecogs.com/svg.image?Pix-total-Saving&space;=&space;\frac{Pix&space;in&space;-&space;Pix&space;out}{Total&space;in}" title="https://latex.codecogs.com/svg.image?Pix-total-Saving = \frac{Pix in - Pix out}{Total in}" />	
 
-Weekly - How much money from Pix in are transfered out in the next 7 days compared to all transfers in
+Weekly - How much money from Pix in are transfered out in the next 7 days compared to all transfers in. In a weekly basis, it lets the busines know how dynamic is the money in PIX in a weekly basis, by knowing how does the money transfer by PIX method.
 	
 <img src="https://latex.codecogs.com/svg.image?pix_{burn_out}&space;=&space;\frac{Pix&space;in_t&space;-&space;Pix&space;out_{7d}}{TotalIn_{7d}}" title="https://latex.codecogs.com/svg.image?pix_{burn_out} = \frac{Pix in_t - Pix out_{7d}}{TotalIn_{7d}}" />
 	
