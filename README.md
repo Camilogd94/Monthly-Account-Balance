@@ -80,8 +80,7 @@ Transactions is the only table that would have 2 parts.
 
 ---
 
-	
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;General Pix-In=\frac{Pix_in Total}{Pix_out otal}" />  
   
 # Annex
 
