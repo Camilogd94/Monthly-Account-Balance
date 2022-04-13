@@ -92,7 +92,7 @@ Monthly - How much of the total transactions in are from PIX. General view for a
 	
 Monthly - How much money by the end of the month has been transfered out by Pix compared to transactions in by the same product
 	
-<img src="https://latex.codecogs.com/svg.image?Pix&space;Savings&space;=&space;1&space;-&space;\frac{Pix&space;out}{Pix&space;in}" title="https://latex.codecogs.com/svg.image?Pix Savings = 1 - \frac{Pix out}{Pix in}" />
+<img src="https://latex.codecogs.com/svg.image?Pix&space;Savings&space;=&space;1&space;-&space;\frac{Pix&space;out}{Pix&space;in}" title="https://latex.codecogs.com/svg.image?Pix-Savings = 1 - \frac{Pix out}{Pix in}" />
 	
 Monthly/Weekly - By the end of the period, how much money is transfered in by Pix compared to total in-transfers
 	
@@ -100,7 +100,7 @@ Monthly/Weekly - By the end of the period, how much money is transfered in by Pi
 
 Monthly - After transfers-out, how much money stands by PIX in over total transfers in	
 	
-<img src="https://latex.codecogs.com/svg.image?Pix-Saving&space;=&space;\frac{Pix&space;in&space;-&space;Pix&space;out}{Total&space;in}" title="https://latex.codecogs.com/svg.image?Pix-Saving = \frac{Pix in - Pix out}{Total in}" />	
+<img src="https://latex.codecogs.com/svg.image?Pix-total-Saving&space;=&space;\frac{Pix&space;in&space;-&space;Pix&space;out}{Total&space;in}" title="https://latex.codecogs.com/svg.image?Pix-total-Saving = \frac{Pix in - Pix out}{Total in}" />	
 	
 # Annex
 
