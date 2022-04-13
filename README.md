@@ -58,7 +58,10 @@ The information provided by these tables are going to be oriented to satisfy bus
 # Timeline execution plan
 
 ---
-  
+
+![Timeline](./images/Timeline.png)  
+
+	
 # PIX KPIs
 
 ---
