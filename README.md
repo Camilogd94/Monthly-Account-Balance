@@ -58,6 +58,9 @@ The information provided by these tables are going to be oriented to satisfy bus
 # Timeline execution plan
 
 ---
+	
+3. Come up with a strategy to implement the warehouse changes you proposed
+	
 
 A 5 Months time-window process would include several steps throughout different scenarios. Stakeholders included are Engineering team; Business areas to understand products, business cases and considerations; System leaders and teams for features and possible improvements. This stakeholders would be aware from the beginning to match information, enable tools and possible resources.
 		
@@ -79,6 +82,9 @@ Transactions is the only table that would have 2 parts.
 # PIX KPIs
 
 ---
+
+4. Propose metrics to track PIX performance and its impact on Nubank. Feel free to come up
+with any metrics you consider relevant	
 	
 Monthly - How much of the total transactions in are from PIX. General view for all products.
 	
