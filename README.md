@@ -79,19 +79,9 @@ Transactions is the only table that would have 2 parts.
 # PIX KPIs
 
 ---
-  
-\begin{equation*}
-\\
-\ d(\phi,\lambda) = 2 \cdot arcsin\sqrt{sin^2\left(\frac{\phi_2 - \phi_1}{2}\right) + cos({\phi_1})\cdot cos({\phi_2})\cdot sin^2\left(\frac{\lambda_2 - \lambda_1}{2}\right)}\\
-\end{equation*}
 
-\begin{equation*}
-\ dist = d(\phi,\lambda)\cdot R \\
-\ R = 6367 \ \text{Radio de la tierra en Km} \\
-\phi - \text{Representa las latitudes} \\
-\lambda - \text{Representa las longitudes}
-\end{equation*}	
 	
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
   
 # Annex
 
