@@ -80,7 +80,7 @@ Transactions is the only table that would have 2 parts.
 
 ---
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;General Pix-In=\frac{Pix_in Total}{Pix_out otal}" />  
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;Pix-In=\frac{Pix_in Total}{Pix_out otal}" />  
   
 # Annex
 
