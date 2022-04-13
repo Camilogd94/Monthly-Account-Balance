@@ -59,6 +59,9 @@ The information provided by these tables are going to be oriented to satisfy bus
 
 ---
 
+A 5 Months time-window process would include several processes throughout different scenarios. While the current 
+	
+	
 ![Timeline](./images/Timeline.png)  
 
 	
