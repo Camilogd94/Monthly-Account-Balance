@@ -63,7 +63,7 @@ A 5 Months time-window process would include several steps throughout different 
 		
 While the current architecture works, Customer and Accounts should be the first tables to work on since they would lead the structure for products relation and future transactions breakdown. It means they will be the main input to create products and products relation as well as Geo dataset.
 	
-1. Extraction and understanding: This step will include system understanding, business understanding and raw table structure deep dive.
+1. **Extraction and understanding:** This step will include system understanding, business understanding and raw table structure deep dive.
 2. Creation: Product and product relation would be created first taking into account Geo, customer and accounts information. Once products tables are created, additional information would be included to Customers and Accounts according to new DWH proposed.
 3. Test: Testing would be set on production enviroment in order to created temporal sights to match current and historical information for products, relation, customers and accounts.
 4. Fixing and Tunnning: After testing, feedback would be considered in case any discrepancy comes up. It includes re-testing to guarantee equality in results and history process
