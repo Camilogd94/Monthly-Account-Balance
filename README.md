@@ -19,9 +19,9 @@
 The exercise was executed in ***AWS (Amazon Web Services)***, especifically ***Athena*** service. This service is based on SQL-Hive, both database and process were uploaded and executed in this service.
 
 - To review code enviroment (Athena) and S3 bucket storage, please refer to: https://575055962276.signin.aws.amazon.com/console
-	User: Read
-	Pass: AWSread94*
-	This is a read profile and does not affect or let affect current job.
+	- User: Read
+	- Pass: AWSread94*
+	- This is a read profile and does not affect or let affect current job.
 - To review **code especifications**, please refer to Annex.
   
   
