@@ -79,8 +79,7 @@ Transactions is the only table that would have 2 parts.
 # PIX KPIs
 
 ---
-
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;Pix-In=\frac{Pix_in Total}{Pix_out otal}" />  
+<img src="https://latex.codecogs.com/svg.image?Total&space;Pix&space;In&space;=&space;\frac{PixIn&space;Total}{Total&space;In}" title="https://latex.codecogs.com/svg.image?Total Pix In = \frac{PixIn Total}{Total In}" />
   
 # Annex
 
