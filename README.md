@@ -79,8 +79,19 @@ Transactions is the only table that would have 2 parts.
 # PIX KPIs
 
 ---
+	
+Monthly - How much of the total transactions in are from PIX. General view for all products.
+	
 <img src="https://latex.codecogs.com/svg.image?Total&space;Pix&space;In&space;=&space;\frac{PixIn&space;Total}{Total&space;In}" title="https://latex.codecogs.com/svg.image?Total Pix In = \frac{PixIn Total}{Total In}" />
-  
+	
+Monthly - How much money by the end of the month has been transfered out by Pix compared to transactions in by the same product
+	
+<img src="https://latex.codecogs.com/svg.image?Pix&space;Savings&space;=&space;1&space;-&space;\frac{Pix&space;out}{Pix&space;in}" title="https://latex.codecogs.com/svg.image?Pix Savings = 1 - \frac{Pix out}{Pix in}" />
+	
+Monthly/Weekly - By the end of the period, how much money is transfered in by Pix compared to total in-transfers
+	
+<img src="https://latex.codecogs.com/svg.image?Pix-Margin&space;=&space;\frac{Pix&space;in}{Total&space;in}" title="https://latex.codecogs.com/svg.image?Pix-Margin = \frac{Pix in}{Total in}" />	
+
 # Annex
 
 ---
