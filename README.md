@@ -59,10 +59,21 @@ The information provided by these tables are going to be oriented to satisfy bus
 
 ---
 
-A 5 Months time-window process would include several processes throughout different scenarios. While the current 
+A 5 Months time-window process would include several steps throughout different scenarios. Stakeholders included are Engineering team; Business areas to understand products, business cases and considerations; System leaders and teams for features and possible improvements. This stakeholders would be aware from the beginning to match information, enable tools and possible resources.
+		
+While the current architecture works, Customer and Accounts should be the first tables to work on since they would lead the structure for products relation and future transactions breakdown. It means they will be the main input to create products and products relation as well as Geo dataset.
 	
+1. Extraction and understanding: This step will include system understanding, business understanding and raw table structure deep dive.
+2. Creation: Product and product relation would be created first taking into account Geo, customer and accounts information. Once products tables are created, additional information would be included to Customers and Accounts according to new DWH proposed.
+3. Test: Testing would be set on production enviroment in order to created temporal sights to match current and historical information for products, relation, customers and accounts.
+4. Fixing and Tunnning: After testing, feedback would be considered in case any discrepancy comes up. It includes re-testing to guarantee equality in results and history process
+5. Live: Once on Live - In DWH -, previous tables must be shutted down gradually to avoid results damage, business processes and unmatch of information.
 	
-![Timeline](./images/Timeline.png)  
+Transactions is the only table that would have 2 parts. 
+	- Transfers 1: No breakdown included but only general account matching with current business accounts. This includes PIX and No PIX
+	- If transfers 1 matches, Transfers 2 would have product breakdown, and accounts as well in order to  match whole information with tranfers 1.
+	
+![timeline](./images/timeline.png)  
 
 	
 # PIX KPIs
