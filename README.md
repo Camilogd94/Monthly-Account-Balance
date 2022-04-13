@@ -42,7 +42,11 @@ Refer to Annex for code: <div class="toc-item"><li><span><a href="#Annex" data-t
 	
 ## Why these changes?
 
-In order to have standard information, centralized and escalable data, we need to merge and keep history with multiples variables that help to access easiy to whole core information that can  provide better insights to business. It means, that all customers, accounts and transactions must be centralized in a same dataset and looking forward to be efficient for access, effective as unique source.
+In order to have standard information, centralized and escalable data, we need to merge and keep history with multiples variables that help to access easiy to whole core information that can  provide better insights to business. It means, that all customers, accounts and transactions must be centralized in a same dataset and looking forward to be efficient for access and effective as unique source.  By unifying Transactions, the extraction by product and type would help to understand the behavior easier than separate sources.
+	
+Time tables would be disable since date, hour and timezone would be included in transfers, accounts and product in order to ease access instead of consume resources by different tables. Plus, by having date in the table, month, week and day information are able to be extracted easier.
+	
+Both products relation and product are oriented to extend information to the customers and accounts. However, products relation is the initial status that each client/customer had at the beginning of each product afforded by the customer and, products is a catalog with its relation to an account. Example: A loan is an account that contains multiple products like mortgage credit, Car loan and so on. 
 
 ![NewDWH](./images/NewDWH.png) 
 	
